@@ -67,6 +67,7 @@ Me chamo Kauã Andrade Silva, tenho 17 anos e sou estudante do SESI, atualmente 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+-->
 <img 
     align="left" 
     alt="Tailwind" 
@@ -74,8 +75,7 @@ Me chamo Kauã Andrade Silva, tenho 17 anos e sou estudante do SESI, atualmente 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/> -->
-<!--
+/> 
 
 <img 
     align="left" 
@@ -84,6 +84,7 @@ Me chamo Kauã Andrade Silva, tenho 17 anos e sou estudante do SESI, atualmente 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+<!--
 />-->
 <!--
 <img 
@@ -126,6 +127,7 @@ Me chamo Kauã Andrade Silva, tenho 17 anos e sou estudante do SESI, atualmente 
 
 
 <!--
+-->
 ### 📊 Estatísticas
 <p>
   <img 
@@ -141,7 +143,6 @@ Me chamo Kauã Andrade Silva, tenho 17 anos e sou estudante do SESI, atualmente 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakaSilva2008&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
--->
 
 
 </p>
