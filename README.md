@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Kauã Andrade Silva, tenho 16 anos e sou estudante do SESI, atualmente no segundo ano do ensino médio. Estou cursando também o técnico em Desenvolvimento de Sistemas no SENAI, onde estou no primeiro ano. Sou apaixonado por tecnologia e desenvolvimento web, focando principalmente em Front-End, com conhecimentos em HTML5, CSS3 e JavaScript. Estou em constante aprendizado por meio de cursos online, como os da plataforma Alura, e estou a caminho do World Skills na ocupação Tecnologia Web #17.
+Me chamo Kauã Andrade Silva, tenho 17 anos e sou estudante do SESI, atualmente no segundo ano do ensino médio. Estou cursando também o técnico em Desenvolvimento de Sistemas no SENAI, onde estou no primeiro ano. Sou apaixonado por tecnologia e desenvolvimento web, focando principalmente em Front-End, com conhecimentos em HTML5, CSS3 e JavaScript. Estou em constante aprendizado por meio de cursos online, como os da plataforma Alura, e estou a caminho do World Skills na ocupação Tecnologia Web #17.
 
 
 ---
