@@ -130,13 +130,13 @@ Me chamo Kauã Andrade Silva, tenho 17 anos e sou estudante do SESI, atualmente 
 -->
 ### 📊 Estatísticas
 <p>
-  <!-- <img  
+   <img  
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=kauasilvadeveloper&show_icons=true&theme=tokyonight"
-  />-->
+  />
   <img 
       align="left" 
       alt="GitHub Stats" 
