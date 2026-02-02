@@ -127,7 +127,6 @@ Me chamo Kauã Andrade Silva, tenho 17 anos e sou estudante do SESI, atualmente 
 
 
 <!--
--->
 ### 📊 Estatísticas
 <p>
    <img  
@@ -147,3 +146,4 @@ Me chamo Kauã Andrade Silva, tenho 17 anos e sou estudante do SESI, atualmente 
 
 </p>
 
+-->
