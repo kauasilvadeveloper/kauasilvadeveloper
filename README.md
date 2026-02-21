@@ -84,7 +84,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=kauasilvadeveloper&locale=pt-br&mode=daily&theme=react&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=kauasilvadeveloper&locale=en-us&mode=daily&theme=react&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
